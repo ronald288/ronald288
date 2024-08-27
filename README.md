@@ -1,6 +1,6 @@
 ## Hi there 👋
 ##LENGUAJES:
-[![javaScript]Color=101010))
+[![javaScript](Color=101010)
 
 <!--
 **ronald288/ronald288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
