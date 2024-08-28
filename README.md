@@ -12,8 +12,8 @@
 * inkScape
 * canvas
 # Informacion De Contacto
-https://www.facebook.com/ronal.j.ordonez
-https://www.instagram.com/ronal.j.ordonez
+https://www.facebook.com/ronal.j.ordonez <br>
+https://www.instagram.com/ronal.j.ordonez  <br>
 https://www.linkedin.com/in/ronald-julian-ordo%C3%B1ez-bohorquez-867202218
 <!--
 
