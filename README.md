@@ -1,4 +1,4 @@
-## HOLA MUNDO 👋 
+## <p align="center">Hola Mundo 👋 !!</p>
 
 ![pic1](https://github.com/user-attachments/assets/92d3bf20-ea48-4369-a1a7-c038f85e1720)
 # Lenguajes
@@ -20,7 +20,11 @@
 
 ###
 # framework
-* Bootstrap
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
+
+###
 # Herramientas De Edicion Multimedia
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
