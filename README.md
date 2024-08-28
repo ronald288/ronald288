@@ -1,4 +1,4 @@
-## <p align="center">Hola Mundo 👋 !!</p>
+## <p align="center">HOLA MUNDO 👋 !!</p>
 
 ![pic1](https://github.com/user-attachments/assets/92d3bf20-ea48-4369-a1a7-c038f85e1720)
 # Lenguajes
