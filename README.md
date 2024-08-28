@@ -1,4 +1,4 @@
-## Hi there 👋
+## HOLA MUNDO 👋
 # Lenguajes
 * javaScript (-AjaX -jQuery)
 * css
