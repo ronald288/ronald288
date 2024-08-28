@@ -6,15 +6,15 @@
 # Librerias
 * React
 # framework
-*Bootstrap
+* Bootstrap
 # Herramientas De Edicion Multimedia
 * adobe PhotoShop
 * inkScape
 * canvas
 # Informacion De Contacto
-(https://www.facebook.com/ronal.j.ordonez/)
-(https://www.instagram.com/ronal.j.ordonez/)
-(https://www.linkedin.com/in/ronald-julian-ordo%C3%B1ez-bohorquez-867202218/)
+https://www.facebook.com/ronal.j.ordonez
+https://www.instagram.com/ronal.j.ordonez
+https://www.linkedin.com/in/ronald-julian-ordo%C3%B1ez-bohorquez-867202218
 <!--
 
 Here are some ideas to get you started:
