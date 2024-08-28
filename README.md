@@ -1,12 +1,10 @@
 ## Hi there 👋
 # Lenguajes
-* javaScript
+* javaScript (-AjaX -jQuery)
 * css
 * html
 # Librerias
-* react
-* ajax
-* jQuery
+* React
 # framework
 *Bootstrap
 # Herramientas De Edicion Multimedia
