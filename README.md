@@ -2,15 +2,22 @@
 <p align="center"><img src="assets/portada.jpg" width="400" alt="Portada"/></p>
 
 # Lenguajes
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+      <br><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+      <br><sub><b>CSS3</b></sub>
+    </td>
+  </tr>
+</table>
 
 # Librerias
 <div align="left">
@@ -47,32 +54,25 @@
 </table>
 ###
 # Informacion De Contacto
-<div align="left">
-  <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
-    <img src="https://raw.githubusercontent.com/ronald288/ronald288/main/assets/icons/linkedin.svg"
-         width="52"
-         height="40"
-         alt="linkedin logo" />
-  </a>
-
-  <a href="https://www.facebook.com/tu-usuario" target="_blank">
-    <img src="https://raw.githubusercontent.com/ronald288/ronald288/main/assets/icons/facebook.svg"
-         width="52"
-         height="40"
-         alt="facebook logo" />
-  </a>
-
-  <a href="mailto:ronal061199@gmail.com">
-    <img src="https://raw.githubusercontent.com/ronald288/ronald288/main/assets/icons/gmail.svg"
-         width="52"
-         height="40"
-         alt="gmail logo" />
-  </a>
-
-  <a href="https://www.instagram.com/tu-usuario" target="_blank">
-    <img src="https://raw.githubusercontent.com/ronald288/ronald288/main/assets/icons/instagram.svg"
-         width="52"
-         height="40"
-         alt="instagram logo" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:ronal061199@gmail.com">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
+        <br><sub><b>Email</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ronald288" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+        <br><sub><b>GitHub</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+        <br><sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
