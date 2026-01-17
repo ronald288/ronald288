@@ -1,5 +1,5 @@
 ## <p align="center">HOLA MUNDO 👋 !!</p>
-<p align="center"><img src="assets/portada.jpg" width="400" alt="Portada"/></p>
+<p align="center"><img src="assets/portada.png" width="500" alt="Portada"/></p>
 
 # Lenguajes
 <table>
