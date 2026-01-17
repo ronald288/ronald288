@@ -63,11 +63,13 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://wa.me/573223619356" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/whatsapp-original.svg" height="40"/>
-        <br><sub><b>whatsappb</b></sub>
-      </a>
-    </td>
+  <a href="https://wa.me/573223619356" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/whatsapp.svg"
+         height="40"
+         style="filter: invert(41%) sepia(94%) saturate(749%) hue-rotate(88deg) brightness(95%) contrast(90%);" />
+    <br><sub><b>WhatsApp</b></sub>
+  </a>
+</td>
     <td align="center">
       <a href="https://www.linkedin.com" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
