@@ -23,25 +23,28 @@
 
 # framework
 <div align="left">
-  <img src="https://raw.githubusercontent.com/ronald288/ronald288/main/assets/icons/bootstrap.svg" height="40" alt="bootstrap logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+      <br><sub><b>Bootstrap</b></sub>
 </div>
 
 ###
 # Herramientas De Edicion Multimedia
-<div align="left">
- <img src="https://raw.githubusercontent.com/ronald288/ronald288/main/assets/icons/photoshop.svg"
-       height="40"
-       alt="photoshop logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/ronald288/ronald288/main/assets/icons/inkscape.svg"
-       height="40"
-       alt="inkscape logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/ronald288/ronald288/main/assets/icons/canva.svg"
-       height="40"
-       alt="canva logo" />
-</div>
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40"/>
+      <br><sub><b>Photoshop</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40"/>
+      <br><sub><b>Inkscape</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"/>
+      <br><sub><b>Canva</b></sub>
+    </td>
+  </tr>
+</table>
 ###
 # Informacion De Contacto
 <div align="left">
