@@ -52,7 +52,7 @@
     </td>
   </tr>
 </table>
-###
+
 # Informacion De Contacto
 <table>
   <tr>
@@ -63,9 +63,9 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/ronald288" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-        <br><sub><b>GitHub</b></sub>
+      <a href="https://wa.me/573223619356" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/whatsapp-original.svg" height="40"/>
+        <br><sub><b>whatsappb</b></sub>
       </a>
     </td>
     <td align="center">
