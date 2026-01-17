@@ -19,22 +19,33 @@
   </tr>
 </table>
 
-# Librerias
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40"/>
-</div>
 
-###
+# Librerías
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+      <br><sub><b>React</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40"/>
+      <br><sub><b>jQuery</b></sub>
+    </td>
+  </tr>
+</table>
+
 
 # framework
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+<table>
+  <tr> 
+    <td align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
       <br><sub><b>Bootstrap</b></sub>
-</div>
+    </td>
+  </tr>
+</table>
 
-###
 # Herramientas De Edicion Multimedia
 <table>
   <tr>
