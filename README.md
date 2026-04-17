@@ -36,11 +36,29 @@
 </table>
 
 
-# framework
+# Frameworks / Backend
 <table>
   <tr> 
-    <td align="left">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+      <br><sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+      <br><sub><b>Bootstrap</b></sub>
+    </td>
+        <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" height="40"/>
+      <br><sub><b>Bootstrap</b></sub>
+    </td>
+  </tr>
+</table>
+
+# Bases de Datos
+<table>
+  <tr> 
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/MySQL/MySQL-original.svg" height="40"/>
       <br><sub><b>Bootstrap</b></sub>
     </td>
   </tr>
