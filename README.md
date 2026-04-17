@@ -44,12 +44,12 @@
       <br><sub><b>Bootstrap</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-      <br><sub><b>Bootstrap</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40"/>
+      <br><sub><b>Express</b></sub>
     </td>
         <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" height="40"/>
-      <br><sub><b>Bootstrap</b></sub>
+      <br><sub><b>Node.js</b></sub>
     </td>
   </tr>
 </table>
@@ -59,7 +59,7 @@
   <tr> 
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/MySQL/MySQL-original.svg" height="40"/>
-      <br><sub><b>Bootstrap</b></sub>
+      <br><sub><b>MySQL</b></sub>
     </td>
   </tr>
 </table>
